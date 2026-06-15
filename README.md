@@ -36,13 +36,8 @@ that don't just predict, but drive real decisions at scale.
 
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight)
 
-![2026](https://ghchart.rshah.org/HarshithaRedd)
+![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=tokyo-night&hide_border=true)
 
-![2025](https://ghchart.rshah.org/2025/HarshithaRedd)
-
-![2024](https://ghchart.rshah.org/2024/HarshithaRedd)
-
-![2023](https://ghchart.rshah.org/2023/HarshithaRedd)
 
 
 
