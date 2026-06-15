@@ -33,6 +33,8 @@ that don't just predict, but drive real decisions at scale.
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaRedd&layout=compact&theme=tokyonight)
@@ -40,6 +42,7 @@ that don't just predict, but drive real decisions at scale.
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Harshitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=tokyo-night)
+
 
 
 ---
