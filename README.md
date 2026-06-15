@@ -33,13 +33,17 @@ that don't just predict, but drive real decisions at scale.
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
-## 📊 GitHub Activity
 
 ![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight)
 
-![Contribution Calendar](https://ghchart.rshah.org/HarshithaRedd)
+![2026](https://ghchart.rshah.org/HarshithaRedd)
+
+![2025](https://ghchart.rshah.org/2025/HarshithaRedd)
+
+![2024](https://ghchart.rshah.org/2024/HarshithaRedd)
+
+![2023](https://ghchart.rshah.org/2023/HarshithaRedd)
+
 
 
 
