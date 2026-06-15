@@ -39,6 +39,9 @@ that don't just predict, but drive real decisions at scale.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight)](https://git.io/streak-stats)
 
+![Harshitha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=tokyo-night)
+
+
 ---
 
 ## 📫 Let's Connect
