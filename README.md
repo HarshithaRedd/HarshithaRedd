@@ -31,6 +31,16 @@ that don't just predict, but drive real decisions at scale.
 
 ---
 
+## 📊 GitHub Activity
+
+![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaRedd&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitha-gangasani)
@@ -38,19 +48,3 @@ that don't just predict, but drive real decisions at scale.
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshithaRedd&color=blueviolet&style=flat&label=Profile+Views)
-
-
-<!--
-**HarshithaRedd/HarshithaRedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
