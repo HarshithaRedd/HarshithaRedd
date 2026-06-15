@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&width=600&lines=Hi+there!+I'm+Harshitha+(Sony)+👋;AI+%26+ML+Engineer;Analytics+Engineer;Building+intelligent+systems+at+scale)](https://git.io/typing-svg)
+
 # Hi there, I'm Harshitha (Sony) 👋
 
 🤖 AI/ML Engineer with a strong analytics foundation — I build intelligent systems
