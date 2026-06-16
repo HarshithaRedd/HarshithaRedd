@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&width=700&height=50&lines=Harshitha+Gangasani;AI+%2F+ML+Engineer+%E2%80%A2+Analytics+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&width=700&height=70&lines=Harshitha+Gangasani;AI+%2F+ML+Engineer+%E2%80%A2+Analytics+Engineering)](https://git.io/typing-svg)
 
 ### Data & AI practitioner — 5+ years shipping ML systems and analytics infrastructure across government, e-commerce, and academia.
 
@@ -47,12 +47,22 @@ Power BI · Tableau · Looker
 
 ---
 
+## Open To
+
+**Roles:** Data Scientist · AI/ML Engineer · Analytics Engineer · Analytics Manager
+**Work type:** Full-time
+**Domains:** Public sector, e-commerce, platform/infrastructure analytics
+**Strengths I bring:** Production ML deployment, large-scale pipeline architecture, cross-functional stakeholder delivery
+
+---
+
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-gangasani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithagangasani5@gmail.com)
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight&hide_title=true)
 ![Streak](https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=HarshithaRedd&color=6A5ACD&style=flat&label=Profile+Views)
