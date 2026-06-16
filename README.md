@@ -54,7 +54,16 @@ Power BI · Tableau · Looker
 **Domains:** Public sector, e-commerce, platform/infrastructure analytics
 **Strengths I bring:** Production ML deployment, large-scale pipeline architecture, cross-functional stakeholder delivery
 
----
+--
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=react-dark&hide_border=true&area=true&line=6A5ACD&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=minimal&hide_border=true&area=true&line=6A5ACD&point=000000" />
+</picture>
+
+![Contribution Snake](https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg)
+
 
 ## Get in Touch
 
