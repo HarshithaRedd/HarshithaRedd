@@ -62,7 +62,6 @@ Power BI · Tableau · Looker
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithagangasani5@gmail.com)
 
 ---
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight&hide_title=true)
 ![Streak](https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshithaRedd&color=6A5ACD&style=flat&label=Profile+Views)
