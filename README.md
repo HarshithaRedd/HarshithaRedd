@@ -1,67 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&width=700&lines=Hi+there!+I'm+Harshitha+(Sony)+👋;AI+%26+ML+Engineer;Analytics+Engineer;Building+intelligent+systems+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&width=700&height=50&lines=Harshitha+Gangasani;AI+%2F+ML+Engineer+%E2%80%A2+Analytics+Engineering)](https://git.io/typing-svg)
 
-# Hi there, I'm Harshitha (Sony) 👋
+### Data & AI practitioner — 5+ years shipping ML systems and analytics infrastructure across government, e-commerce, and academia.
 
-🤖 AI/ML Engineer with a strong analytics foundation — I build intelligent systems
-that don't just predict, but drive real decisions at scale.
+I build forecasting models, anomaly detection systems, and data pipelines that run in production — not in notebooks. Currently leading data & AI initiatives for a city government (fleet ML scoring, route forecasting, regulatory reporting), after engineering 10TB+/day pipelines at Instacart that powered real-time pricing and fulfillment decisions.
 
----
-
-## 🧠 What I Build
-
-- 🔮 **ML & AI Systems** — XGBoost, LightGBM, CatBoost, causal inference, uplift modeling, A/B testing
-- 📊 **Data Pipelines** — dbt, Snowflake, Airflow, PySpark processing 10TB+ daily
-- 🚀 **LLM & GenAI** — Prompt engineering, Claude & OpenAI API integrations, FastAPI serving
-- ☁️ **Cloud Platforms** — AWS (S3, Glue, SageMaker, Lambda), GCP (BigQuery, Vertex AI), Azure
-- 🗺️ **Applied AI** — Route optimization, fleet analytics, forecasting, regulatory automation
+<!-- INFERRED: framing below is my synthesis of your resume's throughline, not a direct quote — adjust if it doesn't match how you'd describe yourself -->
+My work sits at the intersection of analytics engineering (getting data trustworthy and fast) and applied ML (turning that data into decisions that change operations).
 
 ---
 
-## 🛠️ Tech Stack
+## Core Stack
 
-**AI/ML:** Python · XGBoost · LightGBM · scikit-learn · ARIMA · Prophet · Causal Inference  
-**Data Engineering:** SQL · dbt · Snowflake · Airflow · PySpark · ETL/ELT · Docker  
-**Cloud:** AWS · GCP · Azure Data Factory  
-**LLM & APIs:** Claude · OpenAI · FastAPI · Prompt Engineering  
-**Visualization:** Power BI · Tableau · Looker  
+**Languages & Analytics**
+Python · SQL · PySpark · R · Statistical Analysis · Feature Engineering
 
----
+**ML & Experimentation**
+scikit-learn · XGBoost · LightGBM · CatBoost · ARIMA · Prophet · Causal Inference · Uplift Modeling · A/B Testing
 
-## 💼 Experience
+**Data Engineering & Infrastructure**
+Snowflake · dbt · Airflow · ETL/ELT · Data Modeling · CI/CD · Docker
 
-- 📍 **City of Corpus Christi** *(Jan 2026 – Present)*
-  Senior Management Analyst – Data & AI
-  Route optimization · Fleet ML models · Power BI · TCEQ compliance reporting
+**Cloud**
+AWS (S3, Glue, SageMaker, Lambda) · GCP (BigQuery, Vertex AI) · Azure Data Factory
 
-- 🛒 **Instacart** *(Jul 2024 – Dec 2025)*
-  Product Data Analyst – Data Platform & Analytics Engineering
-  10TB+ pipelines · ML forecasting · Uplift modeling · 40% latency reduction
+**AI / LLM**
+Prompt Engineering · LLM App Development (Claude, OpenAI) · REST APIs · FastAPI · Generative AI
 
-- 🎓 **University of Colorado Denver** *(Aug 2022 – May 2024)*
-  Instructional Assistant – Data Analyst
-  Python automation · Power BI dashboards · Student analytics
-
-- 🏢 **Tudip Technologies** *(May 2020 – Jul 2022)*
-  Data Analyst
-  Anomaly detection · PySpark pipelines · Tableau · KPI frameworks
+**Visualization**
+Power BI · Tableau · Looker
 
 ---
 
-## 🎓 Education
+## Impact Highlights
 
-**M.S. Business Analytics** — University of Colorado Denver *(2024)*  
-**B.Tech. Computer Science**
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitha-gangasani)
+- Engineered Snowflake/dbt/Airflow pipelines processing 10TB+ of daily order data at Instacart, cutting pipeline refresh latency by 40% and enabling real-time product analytics.
+- Built and deployed XGBoost-based demand forecasting and uplift models for promotional pricing, improving prediction accuracy by 18% and lifting conversion 12% via causal-inference-driven experiments.
+- Led predictive keep-vs-replace scoring across 150+ fleet assets for a city government, accelerating procurement decisions by 20%.
+- Replaced manual Excel-based reporting with automated Python workflows, cutting turnaround time 25% while improving data accuracy for institutional decision-making.
 
 ---
 
-![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight)
+## Currently Exploring
 
-![Contribution Calendar](https://ghchart.rshah.org/HarshithaRedd)
+- LLM-powered application development — moving from prompt engineering into full LLM-backed product features
+- MLOps & production ML systems — tightening the path from model to reliable, monitored deployment
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarshithaRedd&color=blueviolet&style=flat&label=Profile+Views)
+---
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-gangasani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight)
