@@ -8,7 +8,7 @@
 {
   "name": "Harshitha Gangasani (Sony)",
   "role": "AI / ML Engineer",
-  "location": "Corpus Christi, TX, USA",
+  "location": "Houston, TX, USA",
   "origin": "India 🇮🇳",
   "specialization": "Analytics Engineering + Applied ML",
   "experience": "5+ years in production ML systems",
