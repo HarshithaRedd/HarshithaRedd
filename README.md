@@ -17,32 +17,17 @@ My work sits at the intersection of **business analytics, data engineering, and 
 ---
 
 ## 👩‍💻 About Me
+## 👩‍💻 About Me
 
-```python
-harshitha = {
-    "role": "Senior Data Analyst",
-    "location": "Corpus Christi(Willing to relocate), Texas",
-    "experience": "5+ years",
-    "focus": [
-        "Operational and financial analytics",
-        "Dashboard and reporting automation",
-        "Forecasting and predictive analytics",
-        "Applied AI for business workflows"
-    ],
-    "currently_building": [
-        "Automated fleet-maintenance analytics",
-        "AI-powered data applications",
-        "Production-ready analytics workflows"
-    ],
-    "open_to": [
-        "Senior Data Analyst",
-        "Analytics Engineer",
-        "Data & AI Analyst",
-        "Applied AI opportunities"
-    ],
-    "philosophy": "Automate the repetitive. Analyze the important."
-}
-```
+I’m a **Senior Data Analyst with 5+ years of experience** turning operational, financial, customer, and asset data into decisions teams can act on.
+
+I build KPI frameworks, executive dashboards, forecasting models, and automated reporting workflows using **SQL, Python, Power BI, Microsoft Fabric, and cloud data platforms**. I particularly enjoy taking a process that depends on disconnected spreadsheets, PDFs, or manual updates and rebuilding it as a reliable analytical system.
+
+I use AI where it creates practical value—not simply to add “AI” to a project. That includes extracting structured information from documents, generating management-ready summaries, detecting unusual patterns, and building analytics tools that reduce repetitive work while keeping the underlying logic transparent.
+
+> **A sentence I enjoy hearing:** “We still do this manually every week.”
+
+`Messy data → trusted metrics → automated insights → better decisions`
 
 ---
 
