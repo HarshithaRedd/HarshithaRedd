@@ -161,45 +161,13 @@ analyst_reactions = {
 > There is probably a cleaner way to do this.
 
 ---
-
 ## GitHub activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&include_all_commits=true"
-  height="175"
-  alt="Harshitha's GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaRedd&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9"
-  height="175"
-  alt="Harshitha's most-used GitHub languages"
-/>
-
-<br/>
-
-<img
   src="https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=FF8C42&currStreakLabel=00B4D8"
-  alt="Harshitha's GitHub contribution streak"
-/>
-
-<br/><br/>
-
-
-</div>
-
----
-
-## My contributions, but make them move 🐍
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
-  width="100%"
-  alt="Animated GitHub contribution snake"
+  alt="Harshitha's GitHub contributions"
 />
 
 </div>
