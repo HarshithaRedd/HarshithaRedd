@@ -243,19 +243,27 @@ WHERE activity NOT IN ('manual repetitive reporting');
 ![Contribution Calendar](https://ghchart.rshah.org/00B4D8/HarshithaRedd)
 
 </div>
-
 ---
-
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Devoured
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
----
-
 ## 💬 Let’s Connect
 
 I am interested in opportunities where I can combine business understanding, analytics, automation, and practical AI to improve how decisions are made.
