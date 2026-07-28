@@ -187,11 +187,6 @@ analyst_reactions = {
 
 <br/><br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF"
-  width="100%"
-  alt="Harshitha's GitHub activity graph"
-/>
 
 </div>
 
