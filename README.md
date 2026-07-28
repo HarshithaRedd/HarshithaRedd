@@ -3,24 +3,37 @@
 <img
   src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/main/assets/data-story.gif"
   width="100%"
-  alt="From scattered data to informed decisions"
+  alt="Animated story showing scattered data becoming informed decisions"
 />
 
 <br/>
 
 # Hi, I’m Harshitha 👋
 
-### Senior Data & Financial Analyst · Analytics Automation · Applied AI
+### Senior Data Analyst · Analytics Automation · Applied AI
 
 I turn scattered operational and financial data into trusted metrics, dashboards, forecasts, and automated workflows.
 
+<br/>
+
 <a href="https://www.linkedin.com/in/harshitha-gangasani">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
 <a href="mailto:harshithagangasani5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
-<img src="https://img.shields.io/badge/Open_to-Data_%26_AI_Roles-00B4D8?style=for-the-badge" alt="Open to opportunities" />
+
+<img
+  src="https://img.shields.io/badge/Open_to-Data_%26_AI_Roles-00B4D8?style=for-the-badge"
+  alt="Open to data and AI opportunities"
+/>
 
 </div>
 
@@ -48,37 +61,50 @@ I use AI where it adds practical value—document analysis, automated summaries,
 
 Operational analytics for vehicle downtime, maintenance activity, work orders, repair costs, and fleet availability.
 
-`Python` `FastAPI` `Streamlit` `Plotly` `pandas`
+The application connects report extraction, validated backend data, interactive visualizations, and management-ready KPIs.
+
+`Python` `pandas` `FastAPI` `Streamlit` `Plotly`
+
+---
 
 ### 📈 Asset Replacement Analytics
 
 A keep-versus-replace model using asset age, repair frequency, downtime, maintenance cost, and historical work orders.
 
-`Forecasting` `Cost Modeling` `Decision Support`
+The goal is to help management identify which assets can remain in service and which require replacement or further investigation.
+
+`Forecasting` `Cost Modeling` `Fleet Analytics` `Decision Support`
+
+---
 
 ### 🤖 AI-Assisted Reporting
 
 Experiments with document extraction, KPI explanations, management summaries, and question-answering across validated business data.
 
-`OpenAI API` `RAG` `Structured Outputs` `Evaluation`
+I am interested in AI that makes analytical work faster without hiding the underlying data, assumptions, or logic.
+
+`OpenAI API` `RAG` `Structured Outputs` `FastAPI` `Evaluation`
 
 ---
 
 ## My data workbench
 
-### Analyze
+### Analyze and model
 
 ![Python](https://img.shields.io/badge/Python-0D3B5C?style=flat-square&logo=python&logoColor=48CAE4)
 ![SQL](https://img.shields.io/badge/SQL-0D3B5C?style=flat-square&logo=postgresql&logoColor=48CAE4)
 ![R](https://img.shields.io/badge/R-0D3B5C?style=flat-square&logo=r&logoColor=48CAE4)
 ![pandas](https://img.shields.io/badge/pandas-0D3B5C?style=flat-square&logo=pandas&logoColor=48CAE4)
+![NumPy](https://img.shields.io/badge/NumPy-0D3B5C?style=flat-square&logo=numpy&logoColor=48CAE4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D3B5C?style=flat-square&logo=scikitlearn&logoColor=48CAE4)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0D3B5C?style=flat-square&logo=python&logoColor=48CAE4)
 
-### Visualize
+### Visualize and communicate
 
 ![Power BI](https://img.shields.io/badge/Power_BI-3D1F0D?style=flat-square&logo=powerbi&logoColor=FFB703)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-3D1F0D?style=flat-square&logo=microsoft&logoColor=FFB703)
 ![Tableau](https://img.shields.io/badge/Tableau-3D1F0D?style=flat-square&logo=tableau&logoColor=FFB703)
+![Excel](https://img.shields.io/badge/Advanced_Excel-3D1F0D?style=flat-square&logo=microsoftexcel&logoColor=FFB703)
 ![Plotly](https://img.shields.io/badge/Plotly-3D1F0D?style=flat-square&logo=plotly&logoColor=FFB703)
 ![Streamlit](https://img.shields.io/badge/Streamlit-3D1F0D?style=flat-square&logo=streamlit&logoColor=FFB703)
 
@@ -89,9 +115,10 @@ Experiments with document extraction, KPI explanations, management summaries, an
 ![dbt](https://img.shields.io/badge/dbt-0A3D2F?style=flat-square&logo=dbt&logoColor=52B788)
 ![Airflow](https://img.shields.io/badge/Airflow-0A3D2F?style=flat-square&logo=apacheairflow&logoColor=52B788)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A3D2F?style=flat-square&logo=fastapi&logoColor=52B788)
+![Docker](https://img.shields.io/badge/Docker-0A3D2F?style=flat-square&logo=docker&logoColor=52B788)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A3D2F?style=flat-square&logo=githubactions&logoColor=52B788)
 
-### Applied AI
+### Apply AI thoughtfully
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-2D1F5C?style=flat-square&logo=openai&logoColor=B39DDB)
 ![Claude](https://img.shields.io/badge/Claude-2D1F5C?style=flat-square&logo=anthropic&logoColor=B39DDB)
@@ -102,10 +129,11 @@ Experiments with document extraction, KPI explanations, management summaries, an
 
 ## Selected impact
 
-- Built asset-level cost and maintenance analysis across **150+ fleet vehicles**
+- Built asset-level maintenance and cost analysis across **150+ fleet vehicles**
 - Automated recurring spreadsheet, PDF, and Python reporting workflows
 - Developed management dashboards for downtime, cost, work orders, and performance
 - Applied forecasting and predictive modeling to operational planning
+- Connected fragmented information into management-ready analytical views
 
 ---
 
@@ -113,62 +141,18 @@ Experiments with document extraction, KPI explanations, management summaries, an
 
 ```python
 analyst_reactions = {
-    "The numbers do not match": "Let’s trace the source.",
-    "We update this every Monday": "Let’s automate it.",
-    "The spreadsheet has 47 tabs": "Interesting.",
-    "The data is already clean": "I’ll verify that.",
+    "The numbers do not match":
+        "Let’s trace the definitions and source systems.",
+
+    "We update this every Monday":
+        "Let’s automate it.",
+
+    "The spreadsheet has 47 tabs":
+        "Slightly concerned. Mostly curious.",
+
+    "The data is already clean":
+        "I’ll verify that.",
+
+    "Can management get this automatically?":
+        "Now we are asking the right question.",
 }
----
-
-## GitHub activity
-
-<div align="center">
-
-<img
-  src="./profile/stats.svg"
-  height="175"
-  alt="Harshitha's GitHub statistics"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  height="175"
-  alt="Harshitha's most-used GitHub languages"
-/>
-
-</div>
-
----
-
-## My contributions, but make them move 🐍
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
-    alt="Animated GitHub contribution snake"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=HarshithaRedd&color=00B4D8&style=flat-square&label=Profile+Visits"
-  alt="Profile visit count"
-/>
-
-</div>
