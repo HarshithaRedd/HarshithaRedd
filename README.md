@@ -156,6 +156,44 @@ analyst_reactions = {
     "Can management get this automatically?":
         "Now we are asking the right question.",
 }
+```
+
+> There is probably a cleaner way to do this.
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=HarshithaRedd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&include_all_commits=true"
+  height="175"
+  alt="Harshitha's GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaRedd&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9"
+  height="175"
+  alt="Harshitha's most-used GitHub languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=FF8C42&currStreakLabel=00B4D8"
+  alt="Harshitha's GitHub contribution streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithaRedd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF"
+  width="100%"
+  alt="Harshitha's GitHub activity graph"
+/>
+
+</div>
 
 ---
 
@@ -163,31 +201,55 @@ analyst_reactions = {
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Animated GitHub contribution snake"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="Animated GitHub contribution snake"
+/>
 
 </div>
 
 ---
 
+## Outside the dataset
+
+When I am not investigating a metric, I am probably reading, solving a puzzle, dancing, cooking, or building a small tool for a task that would have been perfectly reasonable to complete manually.
+
+```sql
+SELECT happiness
+FROM life
+WHERE activity NOT IN ('repetitive manual reporting');
+```
+
+---
+
 <div align="center">
+
+### Building analytical systems that make data easier to trust and decisions easier to make.
+
+<a href="https://www.linkedin.com/in/harshitha-gangasani">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:harshithagangasani5@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<br/><br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=HarshithaRedd&color=00B4D8&style=flat-square&label=Profile+Visits"
   alt="Profile visit count"
 />
+
+<br/><br/>
+
+**May your joins be clean and your refreshes finish before the meeting.**
 
 </div>
