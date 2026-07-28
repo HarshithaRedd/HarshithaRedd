@@ -17,7 +17,7 @@ My work sits at the intersection of **business analytics, data engineering, and 
 ---
 
 ## 👩‍💻 About Me
-## 👩‍💻 About Me
+
 
 I’m a **Senior Data Analyst with 5+ years of experience** turning operational, financial, customer, and asset data into decisions teams can act on.
 
