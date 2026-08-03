@@ -1,218 +1,139 @@
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/HarshithaRedd/HarshithaRedd/main/assets/data-story.gif"
-  width="100%"
-  alt="Animated story showing scattered data becoming informed decisions"
-/>
+# Hi, I'm Harshitha Gangasani 👋
 
-<br/>
+### Senior Data Analyst → Data Scientist | Machine Learning & AI Enthusiast
 
-# Hi, I’m Harshitha 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshithaRedd\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/HarshithaRedd)
 
-### Senior Data Analyst · Analytics Automation · Applied AI
+</div>
 
-I turn scattered operational and financial data into trusted metrics, dashboards, forecasts, and automated workflows.
+## 👩‍💻 About Me
 
-<br/>
+I am a **Senior Data Analyst who has transitioned into Data Science**, with over five years of experience transforming financial, operational, customer, and business data into meaningful insights.
 
-<a href="https://www.linkedin.com/in/harshitha-gangasani">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+My interests lie at the intersection of **Data Analysis, Data Science, Machine Learning, and Artificial Intelligence**. I enjoy building analytical solutions, predictive models, automated data workflows, and interactive applications that turn complex data into clear business decisions.
 
-<a href="mailto:harshithagangasani5@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+I am currently expanding my expertise in **Applied AI, Generative AI, Large Language Models, RAG systems, and AI agents** while continuing to build practical data and machine-learning projects.
 
-<img
-  src="https://img.shields.io/badge/Open_to-Data_%26_AI_Roles-00B4D8?style=for-the-badge"
-  alt="Open to data and AI opportunities"
-/>
+* 🔭 Building data, machine-learning, and AI-powered applications
+* 🌱 Learning Generative AI, RAG, LLM orchestration, and AI agents
+* 💡 Interested in solving business problems using data and automation
+* 🤝 Open to Data Analyst, Data Scientist, Machine Learning, and AI opportunities
+* 📍 Based in Corpus Christi, Texas, and willing to relocate
+
+---
+
+## 💪 My Major Strengths
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data-Driven Problem Solving
+
+Transforming complex and messy datasets into clear insights, measurable outcomes, and practical business recommendations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+
+Developing predictive models, forecasting solutions, anomaly-detection systems, and model-evaluation workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Analytics Automation
+
+Automating repetitive reporting, data preparation, validation, reconciliation, and dashboard-refresh processes.
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Business & Financial Analytics
+
+Connecting technical analysis with financial performance, operational efficiency, forecasting, budgeting, and strategic decisions.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### 🧠 Continuous Learning & Adaptability
+
+Quickly learning new technologies and applying them to real-world data, machine-learning, and artificial-intelligence projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data Analysis
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/docs/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)](https://www.r-project.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org/)
+
+### Data Science, Machine Learning & AI
+
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge\&logoColor=white)](https://xgboost.ai/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)](https://www.langchain.com/)
+
+### Data Engineering & Cloud
+
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)](https://spark.apache.org/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)](https://www.databricks.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)](https://www.snowflake.com/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)](https://aws.amazon.com/)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)](https://airflow.apache.org/)
+
+### Visualization & Application Development
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://www.tableau.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://streamlit.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+
+---
+
+## 📈 Contribution Grid
+
+<div align="center">
+
+[![Harshitha's GitHub Contribution Grid](https://ghchart.rshah.org/2196F3/HarshithaRedd)](https://github.com/HarshithaRedd)
 
 </div>
 
 ---
 
-## Where data meets decision
+## 🎯 Areas of Interest
 
-My work usually starts with disconnected systems, inconsistent reports, manual spreadsheets, or a business question that needs a clear answer.
-
-I bring the data together, determine what can be trusted, and build analytical tools that help management understand:
-
-- what is happening
-- why it is happening
-- what should happen next
-
-I use AI where it adds practical value—document analysis, automated summaries, anomaly detection, and faster access to trusted information.
-
-> **Scattered inputs → trusted data → useful insight → informed decisions**
-
----
-
-## What I’m building
-
-### 🚛 Fleet Intelligence Dashboard
-
-Operational analytics for vehicle downtime, maintenance activity, work orders, repair costs, and fleet availability.
-
-The application connects report extraction, validated backend data, interactive visualizations, and management-ready KPIs.
-
-`Python` `pandas` `FastAPI` `Streamlit` `Plotly`
-
----
-
-### 📈 Asset Replacement Analytics
-
-A keep-versus-replace model using asset age, repair frequency, downtime, maintenance cost, and historical work orders.
-
-The goal is to help management identify which assets can remain in service and which require replacement or further investigation.
-
-`Forecasting` `Cost Modeling` `Fleet Analytics` `Decision Support`
-
----
-
-### 🤖 AI-Assisted Reporting
-
-Experiments with document extraction, KPI explanations, management summaries, and question-answering across validated business data.
-
-I am interested in AI that makes analytical work faster without hiding the underlying data, assumptions, or logic.
-
-`OpenAI API` `RAG` `Structured Outputs` `FastAPI` `Evaluation`
-
----
-
-## My data workbench
-
-### Analyze and model
-
-![Python](https://img.shields.io/badge/Python-0D3B5C?style=flat-square&logo=python&logoColor=48CAE4)
-![SQL](https://img.shields.io/badge/SQL-0D3B5C?style=flat-square&logo=postgresql&logoColor=48CAE4)
-![R](https://img.shields.io/badge/R-0D3B5C?style=flat-square&logo=r&logoColor=48CAE4)
-![pandas](https://img.shields.io/badge/pandas-0D3B5C?style=flat-square&logo=pandas&logoColor=48CAE4)
-![NumPy](https://img.shields.io/badge/NumPy-0D3B5C?style=flat-square&logo=numpy&logoColor=48CAE4)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D3B5C?style=flat-square&logo=scikitlearn&logoColor=48CAE4)
-![XGBoost](https://img.shields.io/badge/XGBoost-0D3B5C?style=flat-square&logo=python&logoColor=48CAE4)
-
-### Visualize and communicate
-
-![Power BI](https://img.shields.io/badge/Power_BI-3D1F0D?style=flat-square&logo=powerbi&logoColor=FFB703)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-3D1F0D?style=flat-square&logo=microsoft&logoColor=FFB703)
-![Tableau](https://img.shields.io/badge/Tableau-3D1F0D?style=flat-square&logo=tableau&logoColor=FFB703)
-![Excel](https://img.shields.io/badge/Advanced_Excel-3D1F0D?style=flat-square&logo=microsoftexcel&logoColor=FFB703)
-![Plotly](https://img.shields.io/badge/Plotly-3D1F0D?style=flat-square&logo=plotly&logoColor=FFB703)
-![Streamlit](https://img.shields.io/badge/Streamlit-3D1F0D?style=flat-square&logo=streamlit&logoColor=FFB703)
-
-### Engineer and automate
-
-![Databricks](https://img.shields.io/badge/Databricks-0A3D2F?style=flat-square&logo=databricks&logoColor=52B788)
-![Snowflake](https://img.shields.io/badge/Snowflake-0A3D2F?style=flat-square&logo=snowflake&logoColor=52B788)
-![dbt](https://img.shields.io/badge/dbt-0A3D2F?style=flat-square&logo=dbt&logoColor=52B788)
-![Airflow](https://img.shields.io/badge/Airflow-0A3D2F?style=flat-square&logo=apacheairflow&logoColor=52B788)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A3D2F?style=flat-square&logo=fastapi&logoColor=52B788)
-![Docker](https://img.shields.io/badge/Docker-0A3D2F?style=flat-square&logo=docker&logoColor=52B788)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A3D2F?style=flat-square&logo=githubactions&logoColor=52B788)
-
-### Apply AI thoughtfully
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-2D1F5C?style=flat-square&logo=openai&logoColor=B39DDB)
-![Claude](https://img.shields.io/badge/Claude-2D1F5C?style=flat-square&logo=anthropic&logoColor=B39DDB)
-![RAG](https://img.shields.io/badge/RAG-2D1F5C?style=flat-square&logo=python&logoColor=B39DDB)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-2D1F5C?style=flat-square&logo=python&logoColor=B39DDB)
-
----
-
-## Selected impact
-
-- Built asset-level maintenance and cost analysis across **150+ fleet vehicles**
-- Automated recurring spreadsheet, PDF, and Python reporting workflows
-- Developed management dashboards for downtime, cost, work orders, and performance
-- Applied forecasting and predictive modeling to operational planning
-- Connected fragmented information into management-ready analytical views
-
----
-
-## The analyst brain
-
-```python
-analyst_reactions = {
-    "The numbers do not match":
-        "Let’s trace the definitions and source systems.",
-
-    "We update this every Monday":
-        "Let’s automate it.",
-
-    "The spreadsheet has 47 tabs":
-        "Slightly concerned. Mostly curious.",
-
-    "The data is already clean":
-        "I’ll verify that.",
-
-    "Can management get this automatically?":
-        "Now we are asking the right question.",
-}
-```
-
-> There is probably a cleaner way to do this.
-
----
-## GitHub activity
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=HarshithaRedd&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=FF8C42&currStreakLabel=00B4D8"
-  alt="Harshitha's GitHub contributions"
-/>
-
-</div>
-
----
-
-## Outside the dataset
-
-When I am not investigating a metric, I am probably reading, solving a puzzle, dancing, cooking, or building a small tool for a task that would have been perfectly reasonable to complete manually.
-
-```sql
-SELECT happiness
-FROM life
-WHERE activity NOT IN ('repetitive manual reporting');
-```
+`Data Analysis` • `Data Science` • `Machine Learning` • `Artificial Intelligence` • `Generative AI` • `Predictive Analytics` • `Financial Analytics` • `Data Engineering` • `Business Intelligence` • `AI Agents`
 
 ---
 
 <div align="center">
 
-### Building analytical systems that make data easier to trust and decisions easier to make.
+### Turning messy data into insights, intelligent systems, and better decisions.
 
-<a href="https://www.linkedin.com/in/harshitha-gangasani">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:harshithagangasani5@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=HarshithaRedd&color=00B4D8&style=flat-square&label=Profile+Visits"
-  alt="Profile visit count"
-/>
-
-<br/><br/>
-
-**May your joins be clean and your refreshes finish before the meeting.**
+[![GitHub](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge\&logo=github)](https://github.com/HarshithaRedd)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshitha-gangasani/)
 
 </div>
