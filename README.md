@@ -3,7 +3,7 @@ Professional GitHub Profile README for Harshitha Gangasani
 GitHub: HarshithaRedd
 -->
 
-<p align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1E2E,100:312E81&height=220&section=header&text=HARSHITHRA%20GANGASANI&fontSize=48&fontAlignY=36&fontColor=FFFFFF&animation=fadeIn&desc=Senior%20Data%20Analyst%20%E2%86%92%20Data%20Scientist&descAlignY=58&descSize=20"     width="100%"     alt="Harshitha Gangasani"   /></p>
+<p align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1E2E,100:312E81&height=220&section=header&text=HARSHITHA%20GANGASANI&fontSize=48&fontAlignY=36&fontColor=FFFFFF&animation=fadeIn&desc=Senior%20Data%20Analyst%20%E2%86%92%20Data%20Scientist&descAlignY=58&descSize=20"     width="100%"     alt="Harshitha Gangasani"   /></p>
 
 <p align="center">
   <img
