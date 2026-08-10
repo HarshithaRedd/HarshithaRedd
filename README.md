@@ -246,6 +246,19 @@ career_direction:
 
 ---
 
+## ☕ Buy Me a Coffee
+
+<p align="center">
+  <b>Enjoyed the project? Buy me a coffee before I automate that too. ☕🤖</b>
+</p>
+
+<p align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/harshitha_reddy)
+
+</p>
+
+---
 ## 🤝 Let’s Connect
 
 <p align="center">
